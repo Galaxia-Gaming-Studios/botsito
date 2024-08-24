@@ -13,14 +13,15 @@
 ## 🚀 Instalación
 
 1. Clona este repositorio:
-
+```besh
 git clone https://github.com/codig0/botsito.git
-
+```
+```bash
 cd botsito
-
-
+```
+```bash
 pip install python-telegram-bot python-dotenv
-
+```
 2. Inicia el bot:
 
 crea un archivo .env example:
